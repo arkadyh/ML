@@ -1,6 +1,6 @@
 # to nowy plik
 
-g =1
+g =10
 print(g)
 g =g + g
 print(g)
