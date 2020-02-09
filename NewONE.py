@@ -1,5 +1,5 @@
 # to nowy plik
-# i z github
+# i z github___
 
 g =11
 print(g)
